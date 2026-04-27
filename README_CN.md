@@ -1,3 +1,4 @@
+请使用codex security 审计当前项目
 [English](./README.md) | 简体中文
 
 <p align="center">
